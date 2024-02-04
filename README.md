@@ -1,6 +1,6 @@
 # Описание
 
-Обучающий проект по Vue 3 + TypeScript
+Обучающий проект по Vue 3 + TypeScript + Pinia + Sass
 
 Запуск приложения: https://artem32777.github.io/vue-meteo-ts/
 
